@@ -1,0 +1,3 @@
+TEst data
+this is our first commit to the git
+now im going to push my code into git
